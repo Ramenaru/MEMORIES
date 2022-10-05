@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Minimap
+  - Obstacles
+  - Bridge
+  - Tree Group
+  - Cliff
+  - 
+  - UnderCollider
+  - ItemColliderPlayer
+  - ItemColliderBridge
+  - Wall
+  - Bridge Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2279685981
+    locked: 0
+  - name: Flowers and Bushes
+    uniqueID: 3108819495
+    locked: 0
+  - name: Player
+    uniqueID: 4124198827
+    locked: 0
+  - name: Object
+    uniqueID: 399249135
+    locked: 0
+  - name: Overlay
+    uniqueID: 3552458405
+    locked: 0
+  - name: Bridge
+    uniqueID: 1817165351
+    locked: 0
+  - name: Sky
+    uniqueID: 61983919
+    locked: 0
+  - name: Fly
+    uniqueID: 1501050255
+    locked: 0
+  - name: UI
+    uniqueID: 3680846151
+    locked: 0

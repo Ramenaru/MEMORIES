@@ -1,0 +1,280 @@
+[
+	{
+		"id": 0,
+		"title": "Dragon Sword",
+		"value": 100,
+		"rarity": "Rare",
+		"type": "Weapon",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 1,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0		
+		},
+		"description": "Crafted from the scales of the last dragon",
+		"stackable": false,
+		"pickupsound": "SharpWeaponPickup",
+		"usedsound": "SharpWeaponEquip",
+		"slug": "dragon_sword"
+	},
+
+	{
+		"id": 1,
+		"title": "Ember Sword",
+		"value": 500,
+		"rarity": "Legendary",
+		"type": "Weapon",
+		"color": {
+			"r": 255,
+			"g": 0,
+			"b": 0,
+			"a": 255
+		},
+		"stats": {
+			"damage": 2,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0		
+		},
+		"description": "The burning anger from betrayed fallen heroes linger deep within the blade of this sword",
+		"stackable": false,
+		"pickupsound": "SharpWeaponPickup",
+		"usedsound": "SharpWeaponEquip",
+		"slug": "dragon_sword"
+	},
+
+	{
+		"id": 2,
+		"title": "Red Potion",
+		"value": 50,
+		"rarity": "Common",
+		"type": "Consumable",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 2
+		},
+		"description": "Restores some HP",
+		"stackable": true,
+		"pickupsound": "PotionPickup",
+		"usedsound": "PotionUsed",
+		"slug": "red_potion"
+	},
+
+	{
+		"id": 3,
+		"title": "Small Key",
+		"value": 10,
+		"rarity": "Common",
+		"type": "Key",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "Unlocks basic doors and chests",
+		"stackable": true,
+		"pickupsound": "KeyPickup",
+		"usedsound": "",
+		"slug": "small_key"
+	},
+
+	{
+		"id": 4,
+		"title": "Small Bomb",
+		"value": 10,
+		"rarity": "Common",
+		"type": "Bomb",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "The amatuers bomb",
+		"stackable": true,
+		"pickupsound": "BombPickup",
+		"usedsound": "BombDrop",
+		"slug": "small_bomb"
+	},
+
+	{
+		"id": 5,
+		"title": "Green Crystal",
+		"value": 0,
+		"rarity": "Common",
+		"type": "Currency",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "Basic currency used throughout Demo-Land",
+		"stackable": true,
+		"pickupsound": "CrystalPickup",
+		"usedsound": "",
+		"slug": "green_crystal"
+	},
+
+	{
+		"id": 6,
+		"title": "Bills Note",
+		"value": 0,
+		"rarity": "Common",
+		"type": "Paper",
+		"color": {
+			"r": 35,
+			"g": 200,
+			"b": 80,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "Hey this is Bill, I should be near the carrot farm at this time and I need to talk to you about your key to your weapon chest",
+		"stackable": false,
+		"pickupsound": "KeyPickup",
+		"usedsound": "",
+		"slug": "win_document"
+	},
+
+	{
+		"id": 7,
+		"title": "Win Note",
+		"value": 0,
+		"rarity": "Common",
+		"type": "Paper",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 0
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "You have beat Demo-Land!!! Tweet us @ TrollBridgeDevs for any new ideas you want to see in future additions of the RPG kit!",
+		"stackable": false,
+		"pickupsound": "KeyPickup",
+		"usedsound": "",
+		"slug": "win_document"
+	},
+
+	{
+		"id": 8,
+		"title": "Heart Up",
+		"value": 0,
+		"rarity": "Rare",
+		"type": "Stat Increase",
+		"color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"stats": {
+			"damage": 0,
+			"armour": 0,
+			"magicarmour": 0,
+			"movespeed": 0,
+			"health": 0,
+			"mana": 0,
+			"bonushealth": 1
+		},
+		"usage": {
+			"restorehp": 0
+		},
+		"description": "",
+		"stackable": false,
+		"pickupsound": "KeyPickup",
+		"usedsound": "",
+		"slug": "full_heart"
+	}
+]
